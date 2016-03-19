@@ -18,11 +18,11 @@
     "url": "git://github.com/agentcooper/node-livejournal.git"
   },
   "dependencies": {
-    "superagent": "^1.8.1",
+    "superagent": "^1.2.0",
     "xmlrpc": "https://github.com/leoz/node-xmlrpc.git"
   },
   "main": "index",
   "devDependencies": {
-    "jasmine": "^2.4.1"
+    "jasmine": "^2.3.1"
   }
 }
